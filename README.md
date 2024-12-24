@@ -66,21 +66,6 @@ Advanced Agent: See examples/advanced_agent.rs for more complex scenarios with m
 Contributing
 We welcome contributions to improve CEREBRAIN.AI Core! To contribute:
 
-Fork the repository.
-Clone your fork to your local machine:
-git clone https://github.com/yourusername/cerebrain.git
-Create a new branch for your changes:
-git checkout -b feature-branch
-Make your changes and commit them:
-git add .
-git commit -m "Description of your changes"
-Push your changes to your fork:
-git push origin feature-branch
-Open a pull request from your fork to the main branch of the original repository.
-Please ensure your changes follow the project's coding style, and add tests where necessary.
-
-For more details, see the CONTRIBUTING.md.
-
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
