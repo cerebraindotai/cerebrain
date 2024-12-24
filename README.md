@@ -28,7 +28,7 @@ Follow the Rust installation guide to install rustc and cargo.
 Clone the Repository:
 Clone this repository to your local machine:
 
-git clone https://github.com/code/cerebrain-core.git
+git clone https://github.com/cerebraindotai/cerebrain.git
 cd cerebrain-core
 Build the Project:
 Build the project using Cargo:
