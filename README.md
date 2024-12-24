@@ -68,7 +68,7 @@ We welcome contributions to improve CEREBRAIN.AI Core! To contribute:
 
 Fork the repository.
 Clone your fork to your local machine:
-git clone https://github.com/yourusername/cerebrain-core.git
+git clone https://github.com/yourusername/cerebrain.git
 Create a new branch for your changes:
 git checkout -b feature-branch
 Make your changes and commit them:
